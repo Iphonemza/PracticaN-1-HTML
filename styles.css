@@ -1,0 +1,103 @@
+
+h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 65px;
+    font-weight: 1000;
+    font-stretch: ultra-condensed;
+    color: rgb(143, 108, 64);
+    text-align: center;
+    margin-bottom: -40px;
+}
+
+h5{
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: 1000;
+    color: grey;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+h6{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(52, 160, 137);
+    font-size: medium;
+    font-weight: 200;
+    margin-top: 10px;
+    text-align-last: center;
+    margin-bottom: 12px;
+}
+
+.container{
+    color: white;
+    background:rgb(151, 150, 150);
+    padding: 20px;
+    margin-top: 50px;
+    margin-bottom: -35px;
+    margin-left: 6cm;
+    margin-right: 6cm;
+}
+
+div.t1{
+    font-family:sans-serif;
+    color: rgb(74, 138, 116);
+    font-weight: 450;
+    font-size: 12.3px;
+    line-height: 18px ;
+    text-align: justify;
+    text-justify: inter-word;
+    letter-spacing: 1px;
+    margin-left: 7cm;
+    margin-right: 7cm;
+    margin-bottom: 25px;
+}
+
+pre{
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(185, 140, 82);
+    font-style: oblique;
+    font-weight: 50;
+    font-size: 22px;
+    line-height: 30px;
+    text-align: justify;
+    text-justify: inter-word;
+    margin-top: -1.8cm;
+    margin-left: 2cm;
+}
+
+.img-centrada{
+    margin: 1px auto 1px;
+    display: block;
+}
+
+.linea-vertical{
+    float:left;
+    height:165px;
+    width:3px;
+    border-right:2px solid rgb(185, 140, 82);
+    padding: 0cm 2.6cm;
+    margin-right: 20px;
+}
+
+hr{
+    margin: auto;
+    width: 30%;
+    color: rgb(219, 165, 95);
+    margin-bottom: 5px;
+    margin-top: 15px;
+}
+
+small{
+    color: rgb(52, 160, 137);
+    font-size: medium;
+    font-style: italic;
+    margin: 22cm;
+}
+
+footer{
+    color: rgb(126, 94, 53);
+    text-align-last: center;
+    font-size: 20px;
+    font-weight:unset;
+    padding: 1px;
+}
