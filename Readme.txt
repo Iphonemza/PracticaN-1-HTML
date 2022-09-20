@@ -1,1 +1,1 @@
-Notas del trabajo
+Notas de la primera practica
